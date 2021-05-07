@@ -1,3 +1,3 @@
 # chess_automation
 
-Automated project which allows a user to solve first few extreme begineer challenges on chess.com
+Using puppeteer,an automated project is made which solves first few extreme begineer challenges on chess.com
